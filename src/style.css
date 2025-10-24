@@ -65,4 +65,8 @@ main {
 
 p {
   color: #d6d6d6;
+  text-align: center;
+  background-color: dimgray;
+  margin: auto;
+  border-radius: 8px;
 }
